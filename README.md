@@ -9,7 +9,7 @@ Learning to Weighted Time-series via Cascaded Teaching Transformers
 
 
 <p align="center">
-<img src=".\img\architecture.png" height = "300" alt="" align=center />
+<img src="./img/architecture.png" height = "300" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> The architecture of cascaded framework.
 </p>
